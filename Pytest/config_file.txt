@@ -1,0 +1,3 @@
+sql_query=select * from table
+email_to=abc@123.com
+num_retries=5
